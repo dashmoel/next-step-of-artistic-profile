@@ -10,7 +10,7 @@ export default function Home() {
                     <div className='flex flexcenter lg:items-start'>
                         <p className="fixed font-mono  font-bold left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
                         
-                        Podcast Show TheWiTch?!&nbsp;<code className="font-mono font-bold"> it's a big project to produce! But Socrates said “speak so that I may see you!” Do you wanna see me!</code>
+                        Podcast Show الحآوي?!&nbsp;<code className="font-mono font-bold"> إنه مشروع كبير للإنتاج! لكن سقراط قال: "تكلم حتى أراك!" هل تريد رؤيتي!</code>
                         </p>
                     </div> 
                     <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
@@ -20,7 +20,7 @@ export default function Home() {
                             target="_blank"
                             rel="noopener noreferrer"
                         >
-                            Go Back!{' '}
+                            رجوع !{' '}
                         
                         </a>
                     </div>
@@ -28,10 +28,10 @@ export default function Home() {
                 
                 <>  
                 <div className='flex-col flex items-center flexcenter lg:items-start'>
-                        <h1>Social experiments in Arabic!
+                        <h1>تجارب اجتماعية باللغة العربية!
                             <span 
                             className=' #ff0000-text-secondary font-extrabold '>
-                            &nbsp; With TheWitch</span>
+                            &nbsp; مع الحآوي </span>
                         </h1>
                       
                     </div>
@@ -57,7 +57,7 @@ export default function Home() {
                             
                             <span 
                             className=' #ff0000-text-secondary font-extrabold '>
-                            &nbsp; Chapter1</span>
+                            &nbsp; الفصل 1</span>
                       
                         </div>   
                 </>
@@ -72,13 +72,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH1-Episode1{' '}
+                        CH1-حلقة 1{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -89,13 +89,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH1-Episode2{' '}
+                        CH1-حلقة 2{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -106,13 +106,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH1-Episode3{' '}
+                        CH1-حلقة 3{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -123,13 +123,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH1-Episode4{' '}
+                        CH1-حلقة 4{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -140,13 +140,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH1-Episode5{' '}
+                        CH1-حلقة 5{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -157,13 +157,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH1-Episode6{' '}
+                        CH1-حلقة 6{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -174,13 +174,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH1-Episode7{' '}
+                        CH1-حلقة 7{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -191,13 +191,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH1-Episode8{' '}
+                        CH1-حلقة 8{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -208,13 +208,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH1-Episode9{' '}
+                        CH1-حلقة 9{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -225,13 +225,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH1-Episode10{' '}
+                        CH1-حلقة 10{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -242,13 +242,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH1-Episode11{' '}
+                        CH1-حلقة 11{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -259,13 +259,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH1-Episode12{' '}
+                        CH1-حلقة 12{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
                     </div>
@@ -275,7 +275,7 @@ export default function Home() {
                             
                             <span 
                             className=' #ff0000-text-secondary font-extrabold '>
-                            &nbsp; Chapter2</span>
+                            &nbsp; الفصل 2</span>
                         
                          
                         </div>   
@@ -291,13 +291,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH2-Episode1{' '}
+                        CH2-حلقة 1{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -308,13 +308,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH2-Episode2{' '}
+                        CH2-حلقة 2{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -325,13 +325,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH2-Episode3{' '}
+                        CH2-حلقة 3{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -342,13 +342,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH2-Episode4{' '}
+                        CH2-حلقة 4{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -359,13 +359,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH2-Episode5{' '}
+                        CH2-حلقة 5{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -376,13 +376,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH2-Episode6{' '}
+                        CH2-حلقة 6{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -393,13 +393,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH2-Episode7{' '}
+                        CH2-حلقة 7{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -410,13 +410,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH2-Episode8{' '}
+                        CH2-حلقة 8{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -427,13 +427,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH2-Episode9{' '}
+                        CH2-حلقة 9{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -444,13 +444,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH2-Episode10{' '}
+                        CH2-حلقة 10{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -461,13 +461,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH2-Episode11{' '}
+                        CH2-حلقة 11{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -478,13 +478,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH2-Episode12{' '}
+                        CH2-حلقة 12{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
                     </div>
@@ -494,7 +494,7 @@ export default function Home() {
                             
                             <span 
                             className=' #ff0000-text-secondary font-extrabold '>
-                            &nbsp; Chapter3</span>
+                            &nbsp; الفصل 3</span>
                         
                            
                         </div>   
@@ -510,13 +510,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH3-Episode1{' '}
+                        CH3-حلقة 1{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -527,13 +527,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH3-Episode2{' '}
+                        CH3-حلقة 2{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -544,13 +544,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH3-Episode3{' '}
+                        CH3-حلقة 3{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -561,13 +561,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH1-Episode4{' '}
+                        CH3-حلقة 4{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -578,13 +578,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH3-Episode5{' '}
+                        CH3-حلقة 5{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -595,13 +595,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH3-Episode6{' '}
+                        CH3-حلقة 6{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -612,13 +612,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH3-Episode7{' '}
+                        CH3-حلقة 7{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -629,13 +629,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH3-Episode8{' '}
+                        CH3-حلقة 8{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -646,13 +646,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH3-Episode9{' '}
+                        CH3-حلقة 9{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -663,13 +663,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH3-Episode10{' '}
+                        CH3-حلقة 10{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -680,13 +680,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH3-Episode11{' '}
+                        CH3-حلقة 11{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -697,13 +697,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH3-Episode12{' '}
+                        CH3-حلقة 12{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
                     </div>
@@ -713,7 +713,7 @@ export default function Home() {
                             
                             <span 
                             className=' #ff0000-text-secondary font-extrabold '>
-                            &nbsp; Chapter4</span>
+                            &nbsp; الفصل 4</span>
                         
                             
                         </div>   
@@ -729,13 +729,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH4-Episode1{' '}
+                        CH4-حلقة 1{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -746,13 +746,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH4-Episode2{' '}
+                        CH4-حلقة 2{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -763,13 +763,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH4-Episode3{' '}
+                        CH4-حلقة 3{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -780,13 +780,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH4-Episode4{' '}
+                        CH4-حلقة 4{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -797,13 +797,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH4-Episode5{' '}
+                        CH4-حلقة 5{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -814,13 +814,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH4-Episode6{' '}
+                        CH4-حلقة 6{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -831,13 +831,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH4-Episode7{' '}
+                        CH4-حلقة 7{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -848,13 +848,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH4-Episode8{' '}
+                        CH4-حلقة 8{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -865,13 +865,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH4-Episode9{' '}
+                        CH4-حلقة 9{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -882,13 +882,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH4-Episode10{' '}
+                        CH4-حلقة 10{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -899,13 +899,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH4-Episode11{' '}
+                        CH4-حلقة 11{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -916,13 +916,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH4-Episode12{' '}
+                        CH4-حلقة 12{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
                     </div>
@@ -932,7 +932,7 @@ export default function Home() {
                             
                             <span 
                             className=' #ff0000-text-secondary font-extrabold '>
-                            &nbsp; Chapter5</span>
+                            &nbsp; الفصل 5</span>
                         
                             
                         </div>   
@@ -948,13 +948,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH5-Episode1{' '}
+                        CH5-حلقة 1{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -965,13 +965,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH5-Episode2{' '}
+                        CH5-حلقة 2{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -982,13 +982,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH5-Episode3{' '}
+                        CH5-حلقة 3{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -999,13 +999,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH5-Episode4{' '}
+                        CH5-حلقة 4{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -1016,13 +1016,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH5-Episode5{' '}
+                        CH5-حلقة 5{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -1033,13 +1033,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH5-Episode6{' '}
+                        CH5-حلقة 6{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -1050,13 +1050,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH5-Episode7{' '}
+                        CH5-حلقة 7{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -1067,13 +1067,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH5-Episode8{' '}
+                        CH5-حلقة 8{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -1084,13 +1084,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH5-Episode9{' '}
+                        CH5-حلقة 9{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -1101,13 +1101,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH5-Episode10{' '}
+                        CH5-حلقة 10{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -1118,13 +1118,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH5-Episode11{' '}
+                        CH5-حلقة 11{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
 
@@ -1135,13 +1135,13 @@ export default function Home() {
                         rel="noopener noreferrer"
                         >
                         <h2 className={`mb-3 text-2xl font-semibold`}>
-                        CH5-Episode12{' '}
+                        CH5-حلقة 12{' '}
                             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                             -&gt;
                             </span>
                         </h2>
                             <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                            Life is a big game with unknown rules &nbsp;Social experiments!
+                            الحياة لعبة كبيرة بقواعد غير معروفة &nbsp;التجارب الاجتماعية!
                             </p>
                         </a>
                     </div>
